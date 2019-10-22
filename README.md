@@ -1,2 +1,2 @@
 # Unicccorn
-this is a repo for learning githun
+this is a repo for learning github
